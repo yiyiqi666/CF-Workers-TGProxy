@@ -1,0 +1,5 @@
+name = "cf-workers-tgproxy"
+main = "telegram_webproxy.js"
+compatibility_date = "2025-11-04"
+
+# SECRET and BOOT must be configured as encrypted Worker secrets in Cloudflare.
